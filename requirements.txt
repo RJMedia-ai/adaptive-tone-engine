@@ -3,3 +3,8 @@ uvicorn[standard]
 python-multipart
 numpy
 soundfile
+nvidia-riva-client
+python-dotenv
+cusignal-cu11
+numba
+cupy-cu11
